@@ -33,4 +33,4 @@ http://make.bcde.jp/raspberry-pi/gpio%e3%81%a7led%e3%81%ae%e7%82%b9%e6%bb%85pyth
 https://denkisekkeijin.com/raspberrypi/pi-led-for/  
 
 # ライセンス  
->[GNU General Public License v3.0]()
+>[GNU General Public License v3.0](https://github.com/ShuyaTanaka/task_3/blob/main/COPYING)
